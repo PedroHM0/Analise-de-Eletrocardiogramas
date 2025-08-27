@@ -146,4 +146,3 @@ python Regressao_Logistica_Eletrocardiogramas.py
 
 Pedro Henrique Macedo de Oliveira
 - Graduando em Engenharia da Computação
-- Especialista em análise de dados biomédicos e machine learning
